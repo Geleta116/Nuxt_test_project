@@ -1,6 +1,6 @@
 export default {
   router: {
-    base: '/udemy-clone-nahom/',  // Keep this if you're using a sub-path for your app
+    base: '/Nuxt_test_project/',  // Keep this if you're using a sub-path for your app
   },
 
   ssr: true,  // Enable server-side rendering (SSR)
