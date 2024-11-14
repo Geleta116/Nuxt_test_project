@@ -9,6 +9,9 @@ export default defineNuxtConfig({
       autoprefixer: {},
     },
   },
+  target: 'static',
+  router: {
+    base: '/Nuxt_test_project/', 
   
   modules: ['@nuxt/image', '@nuxt/icon']
 })
