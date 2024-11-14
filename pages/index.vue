@@ -88,7 +88,7 @@
                     </div>
                     <!-- Conditionally hide image when scrolled -->
                     <div v-if="!isScrolledBeyondFirstPart" class="flex-shrink-0">
-                        <NuxtImg src="/screen_img.jpg" alt="A screen image"
+                        <NuxtImg src="screen_img.jpg" alt="A screen image"
                             class="w-auto h-auto max-w-full max-h-64 rounded-lg shadow-lg" quality="80" />
                     </div>
                 </div>

@@ -1,7 +1,7 @@
 <template>
     <div class="px-8 py-2 max-w-sm mx-auto border rounded-lg" v-if="!isScrolledBeyondSecondPart" :class="{hidden: isScrolledBeyondSecondPart}">
         <!-- Image will only show if the user hasn't scrolled beyond the defined point -->
-        <NuxtImg v-if="!isScrolledBeyondFirstPart" src="/preview_img.jpg" alt="A preview image"
+        <NuxtImg v-if="!isScrolledBeyondFirstPart" src="preview_img.jpg" alt="A preview image"
             class="w-[400px] h-auto max-w-full max-h-64 rounded-lg shadow-lg" :class="{ hidden: isScrolledBeyondFirstPart }" quality="80" />
        
         <p class="font-bold text-4xl my-4">$64.99</p>

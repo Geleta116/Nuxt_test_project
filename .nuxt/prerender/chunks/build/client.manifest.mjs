@@ -1,10 +1,10 @@
 const client_manifest = {
-  "_DDF6Oyif.js": {
+  "_Dr3y69bD.js": {
     "resourceType": "script",
     "module": true,
     "prefetch": true,
     "preload": true,
-    "file": "DDF6Oyif.js",
+    "file": "Dr3y69bD.js",
     "name": "vue.8fc199ce",
     "imports": [
       "node_modules/nuxt/dist/app/entry.js"
@@ -15,7 +15,7 @@ const client_manifest = {
     "module": true,
     "prefetch": true,
     "preload": true,
-    "file": "DjF7j0IL.js",
+    "file": "Dhkg71vT.js",
     "name": "index",
     "src": "node_modules/@nuxt/icon/dist/runtime/components/index.js",
     "isDynamicEntry": true,
@@ -28,13 +28,13 @@ const client_manifest = {
     "module": true,
     "prefetch": true,
     "preload": true,
-    "file": "DOnJawSO.js",
+    "file": "D7GNMIEO.js",
     "name": "error-404",
     "src": "node_modules/nuxt/dist/app/components/error-404.vue",
     "isDynamicEntry": true,
     "imports": [
       "node_modules/nuxt/dist/app/entry.js",
-      "_DDF6Oyif.js"
+      "_Dr3y69bD.js"
     ],
     "css": []
   },
@@ -49,13 +49,13 @@ const client_manifest = {
     "module": true,
     "prefetch": true,
     "preload": true,
-    "file": "DUEzaoqe.js",
+    "file": "CI24JNb-.js",
     "name": "error-500",
     "src": "node_modules/nuxt/dist/app/components/error-500.vue",
     "isDynamicEntry": true,
     "imports": [
       "node_modules/nuxt/dist/app/entry.js",
-      "_DDF6Oyif.js"
+      "_Dr3y69bD.js"
     ],
     "css": []
   },
@@ -70,7 +70,7 @@ const client_manifest = {
     "module": true,
     "prefetch": true,
     "preload": true,
-    "file": "Bysok3IS.js",
+    "file": "D_aaxkZW.js",
     "name": "entry",
     "src": "node_modules/nuxt/dist/app/entry.js",
     "isEntry": true,
@@ -85,7 +85,7 @@ const client_manifest = {
     "module": true,
     "prefetch": true,
     "preload": true,
-    "file": "DDmo-Nep.js",
+    "file": "C-FzB1_j.js",
     "name": "index",
     "src": "pages/index.vue",
     "isDynamicEntry": true,
@@ -95,8 +95,8 @@ const client_manifest = {
     ],
     "css": []
   },
-  "index.Coo3C0aN.css": {
-    "file": "index.Coo3C0aN.css",
+  "index.jxH8G174.css": {
+    "file": "index.jxH8G174.css",
     "resourceType": "style",
     "prefetch": true,
     "preload": true
